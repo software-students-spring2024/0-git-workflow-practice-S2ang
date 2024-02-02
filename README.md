@@ -5,3 +5,8 @@ Software engineering, a discipline under computer science, is vital in creating 
 
 # Git Practice
 A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+
+
+#Niket Gautam opinion:
+This article gives an understanding on the applications of software engineering and the basic requirements in order to become a software engineer. It helps understand what all goes in when making something out of scratch and the type of hard and soft skills which are needed to build an efficient and great software. 
